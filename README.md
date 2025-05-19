@@ -14,6 +14,10 @@ conda activate ship-env
 pip install -r requirements.txt
 ```
 
+## Usage
+
+You can find the codes that we used inside [Scripts](./Scripts/) folder. 
+
 ## Paper
 
 * Published on Nature Scientific Reports. [Link](https://www.nature.com/articles/s41598-024-82345-3).
